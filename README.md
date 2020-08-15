@@ -16,6 +16,7 @@ Here are some of the most _cool_ and _innovative_ features of this taskilist:
 ### Bonus
 **Low budget animations on the icons** -- I know, that's awesome
   
+  
 Aaaand that's all
 
 If you're curious, I used Nunito Sans for the normal text and Bebas Neue for the headings.
