@@ -14,7 +14,8 @@ Here are some of the most _cool_ and _innovative_ features of this taskilist:
 - All the changes are automagically saved in your browser's local storage
 
 ### Bonus
-*Low budget animations on the icons* -- I know, that's awesome
+**Low budget animations on the icons** -- I know, that's awesome
+
 
 Aaaand that's all
 
