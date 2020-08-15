@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tasklist</title>
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet"> 
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap">
+</head>
+<body>
+    <h1>Tasklist</h1>
+    <form action="" class='task-form'>
+        <label for="task-field">New Task</label>
+        <input type="text" name='task-field' id='task-field'>
+        <input type="submit" value="Add task">
+    </form>
+
+    <div class="task-title-container">
+        <h2 class='task-title'>Tasks</h2>
+        <a href='#' class="filter-icon"></a>
+        <input type="text" class='filter-input invisible'>
+        <div class="trashBin delUnf"></div>
+    </div>
+
+    <ul class='tasks-container'>
+        <!-- <li class='task-card'>
+            <input type='checkbox' class='task-checkbox'>
+
+            <div class='task-label'>Lorem, ipsum dolor.</div>
+ 
+            <a href="#" class='delete-task'>❌</a>
+        </li> -->
+    </ul>
+    <div class="finished-tasks-title-container">
+        <h2>Finished Tasks</h2>
+        <div class="arrow"></div>
+        <div class="trashBin delFin"></div>
+    </div>
+
+    <div class="finished-tasks invisible">
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
