@@ -1,4 +1,4 @@
-# Vanilla Javascript Taskilist
+# Vanilla Javascript Tasklist
 
 It's just a simple tasklist, with a kinda minimalistic design. There's not much to expect.  
 
