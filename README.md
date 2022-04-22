@@ -1,13 +1,13 @@
 # Vanilla Javascript Tasklist
 
-It's just a simple tasklist, with a kinda minimalistic design. There's not much to expect.  
+It's just a simple tasklist, with a kinda minimalistic design. There's nothing much to expect.  
 
-Here are some of the most _cool_ and _innovative_ features of this taskilist:
+Here are some of the most _cool_ and _innovative_ features of this tasklist:
 
-- Add new tasks WOOOOW!! SO AMAZING!!!!!
-- Mark tasks as finished OMGG
-- Delete tasks WOOOHOOOO
-- Delete all tasks at once with a bin button (Ok, enough)
+- Add new tasks
+- Mark tasks as finished
+- Delete tasks
+- Delete all tasks at once with a bin button
 - Unfinish tasks (having to do this irl is kinda disappointing, but just in case)
 - Delete all finished tasks with a button that looks exactly the same as the other one
 - Filter the current tasks
